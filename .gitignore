@@ -1,5 +1,2 @@
-vehicles/*
-non-vehicles/*
-test_images/*
-test_videos/*
-
+.ipynb_checkpoints/*
+classifier.p
