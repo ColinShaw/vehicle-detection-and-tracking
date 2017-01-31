@@ -3,7 +3,9 @@
 
 ### General Design
 
-Decent software abstraction and design is important for this project, as it has a level of complexity that is more substantial than the prior projects.  I have tried to make the code concise and reasonably articulate as to what the function is, as this is a good project to showcase.  You will find my main submission `VehicleDetection.ipynb` with some comments associated with the classes to supplement the discussion below.
+Decent software abstraction and design is important for this project, as it has a level of complexity that is more substantial than the prior projects.  I have tried to make the code concise and reasonably articulate as to what the function is, as this is a good project to showcase.  You will find my main submission `VehicleDetection.ipynb` with some comments associated with the classes to supplement the discussion below.  A supplemental submission called `VehicleDetectionWithLaneLines.ipynb` is available that merges the functionality of this assignment with the lane tracking of the previous assignment.  Videos are provided for the results of both of these.
+
+[Screenshot from VehicleDetectionWithLaneLines.ipynb](LaneLinesVehicleDetection.png)
 
 
 
